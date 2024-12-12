@@ -15,3 +15,6 @@ Users can generate diverse, high-quality images for creative projects, concept v
 
 #### **Explore the Project:**
 - [Hugging Face Demo](https://huggingface.co/spaces/Sourikta/Text_To_Image)
+
+![Screenshot 2024-12-13 021649](https://github.com/user-attachments/assets/60c89ea4-f5b1-420b-a79e-b2fca7abb3c1)
+
