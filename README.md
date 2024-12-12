@@ -1,6 +1,11 @@
 
 This project focuses on **Text-to-Image Generation using Stable Diffusion XL (Turbo)**. The goal is to enable users to generate high-quality, visually appealing images from textual descriptions through an intuitive interface powered by **Gradio**. The Stable Diffusion XL (Turbo) model, optimized for performance and quality, allows for detailed and realistic image creation based on complex prompts. The tool offers customizable parameters such as **guidance scale**, **image dimensions**, and **seed control**, enabling users to fine-tune the outputs according to their specific needs.
+
+
 ![Screenshot 2024-12-13 021649](https://github.com/user-attachments/assets/60c89ea4-f5b1-420b-a79e-b2fca7abb3c1)
+
+
+
 The application integrates advanced deep learning techniques, including **xFormers memory-efficient attention** for optimal GPU usage, making it suitable for both high-performance environments and resource-constrained setups.
 
 #### **Key Features:**
